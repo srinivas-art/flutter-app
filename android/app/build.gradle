@@ -25,7 +25,7 @@ android {
 
     defaultConfig {
         
-        applicationId ="com.example.app"
+        applicationId = "com.example.app"//1:1008487277301:android:cc3a975cae059712b05bbc
         
         minSdk = 23
         targetSdk = 33
@@ -46,3 +46,4 @@ flutter {
     source = "../.."
 }
 apply plugin: 'com.google.gms.google-services'
+
